@@ -1,0 +1,17 @@
+@import 'components/header.scss';
+@import 'components/footer.scss';
+
+html, body{
+    margin: 0px;
+}
+
+.menu.inline{
+    margin: 0px;
+    display: flex;
+    padding: 0px;
+    list-style: none;
+}
+
+.main-content img{
+    max-width: 100%;
+}
