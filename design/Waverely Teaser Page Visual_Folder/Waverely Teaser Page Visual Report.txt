@@ -1,0 +1,57 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Waverely Teaser Page Visual.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: pixels
+Artboard Dimensions: 1920 px x 4590 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+PMS 113C (CMYK)
+PMS 1797C (CMYK)
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Lato-Light (TrueType)
+Lato Regular (OTF)
+Lato Bold (OTF)
+Kannada MN (TrueType)
+Bebas Neue Book (OTF)
+Bebas Neue Regular (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+/Users/kevinmitchell/Downloads/Shawlands_CGI_Evening_4K_Final[1].jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 24300K, 3840 by 2160 pixels
+Dimensions: 1925 by 1082.812 points 
+Resolution: 143.626 by 143.626 pixels per inch
+
+
+/Users/kevinmitchell/Downloads/Savills colour logo.eps
+Type: EPS
